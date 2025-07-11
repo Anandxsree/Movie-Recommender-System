@@ -27,7 +27,7 @@ A simple **Movie Recommendation System** built with **Streamlit**, **Pandas**, a
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender.git
+git clone https://github.com/Anandxsree/movie-recommender.git
 cd movie-recommender
 ```
 
